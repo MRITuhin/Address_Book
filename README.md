@@ -1,2 +1,1 @@
-# Address_Book
-Second project of E-commerce lab to test skill on PHP given by our E-commerce teacher
+Second project of E-commerce lab to test skill on HTML and CSS given by our E-commerce teacher
